@@ -12,4 +12,4 @@
 제가 더 궁금하시다면... [더보기🧐](https://rose-eggnog-fa7.notion.site/9f8bd433e5474f928e18714466e1d535)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaminLee&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaminLee&show_icons=true&theme=chartreuse-dark)
