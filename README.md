@@ -3,7 +3,7 @@
 🌱 iOS 개발을 공부하고 있습니다. 
 <br>
 <br>
-👨🏻‍💻  공부한 기록을 [블로그](https://leechamin.tistory.com/)에 남기고 있습니다.
+👨🏻‍💻  학습한 내용들을 [블로그](https://leechamin.tistory.com/)에 남기고 있습니다.
 <br>
 <br>
 🚀  성장을 즐기며, 새로운 지식을 언제나 격하게 환영합니다.
