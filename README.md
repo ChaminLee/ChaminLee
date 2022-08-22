@@ -20,6 +20,12 @@
 
 ---
 
+### 👨🏻‍💻 Work Experience
+
+|Duration|Company, Team|
+|:---:|:---:|
+|2022.06 ~|Hyperconnect, Azar iOS Team|
+|2022.03 ~ 2022.06|Hyperconnect, Azar iOS Team, Intern|
 
 🤓  언제나 더 성실하게, 꼼꼼하게, 열심히!
 
